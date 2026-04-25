@@ -1,0 +1,10 @@
+{
+  "name": "Introduction to AI Agents: From Chatbots to Autonomous Workflows",
+  "description": "A talk-format event demystifying AI agents — what they are, how they differ from simple chatbot interactions, and how developers can build multi-step autonomous workflows using tool-use and orchestration patterns.",
+  "format": "talk",
+  "targetAudience": "Developers and tech-curious professionals new to AI agents who want to understand the landscape and see real demos",
+  "estimatedAttendees": 65,
+  "suggestedDuration": "2 hours",
+  "topicTags": ["ai-agents", "tool-use", "autonomous-systems", "mcp", "chatbot-design"],
+  "prerequisites": []
+}

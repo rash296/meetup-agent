@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Maria Chen",
+    "topics": ["prompt-engineering", "llm-evaluation", "ai-safety"],
+    "bio": "ML engineer at a Tucson defense contractor. Specializes in evaluating LLM outputs for reliability and safety in critical systems.",
+    "availability": "weekday-evenings"
+  },
+  {
+    "name": "Jordan Reeves",
+    "topics": ["claude-code", "developer-tools", "mcp"],
+    "bio": "Full-stack developer and open-source contributor. Builds developer tooling powered by Claude and MCP integrations.",
+    "availability": "weekends"
+  },
+  {
+    "name": "Priya Sharma",
+    "topics": ["computer-vision", "edge-ai", "model-optimization"],
+    "bio": "Computer vision researcher at University of Arizona. Focuses on deploying ML models on resource-constrained devices.",
+    "availability": "flexible"
+  },
+  {
+    "name": "David Okonkwo",
+    "topics": ["rag", "vector-databases", "knowledge-graphs"],
+    "bio": "Data architect building retrieval-augmented generation systems for enterprise search. Runs a local AI study group.",
+    "availability": "weekday-evenings"
+  },
+  {
+    "name": "Sam Takahashi",
+    "topics": ["ai-agents", "autonomous-systems", "tool-use"],
+    "bio": "Robotics engineer turned AI agent developer. Passionate about building multi-step autonomous agent workflows.",
+    "availability": "weekends"
+  },
+  {
+    "name": "Elena Vasquez",
+    "topics": ["fine-tuning", "dataset-curation", "mlops"],
+    "bio": "MLOps lead at a healthcare startup. Manages training pipelines and model deployment infrastructure.",
+    "availability": "flexible"
+  },
+  {
+    "name": "Alex Kim",
+    "topics": ["frontend-ai", "ux-for-ai", "chatbot-design"],
+    "bio": "UX engineer focused on making AI interactions intuitive. Advocates for human-centered AI product design.",
+    "availability": "weekday-evenings"
+  },
+  {
+    "name": "Carlos Mendez",
+    "topics": ["signal-processing", "satellite-communications", "cognitive-radio"],
+    "bio": "RF engineer with a background in satellite systems. Exploring deep learning applications for modulation classification.",
+    "availability": "weekends"
+  }
+]

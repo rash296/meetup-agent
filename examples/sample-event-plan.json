@@ -1,0 +1,10 @@
+{
+  "name": "Hands-On Claude Code Workshop",
+  "description": "A practical workshop where attendees build a working AI agent using Claude Code. Covers project setup, CLAUDE.md configuration, skill creation, and MCP integrations.",
+  "format": "workshop",
+  "targetAudience": "intermediate developers familiar with CLI tools and basic AI concepts",
+  "estimatedAttendees": 30,
+  "suggestedDuration": "3 hours",
+  "topicTags": ["claude-code", "ai-agents", "mcp", "developer-tools"],
+  "prerequisites": ["laptop with Claude Code installed", "basic terminal/CLI experience", "GitHub account"]
+}

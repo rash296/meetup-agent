@@ -1,0 +1,10 @@
+{
+  "name": "Building RAG Pipelines: From Embeddings to Production",
+  "description": "A hands-on workshop where attendees build a retrieval-augmented generation pipeline from scratch — covering document chunking, vector storage, retrieval strategies, and integrating with LLMs for grounded answers.",
+  "format": "workshop",
+  "targetAudience": "Intermediate developers familiar with Python and LLM APIs who want to build production-ready RAG systems",
+  "estimatedAttendees": 45,
+  "suggestedDuration": "3 hours",
+  "topicTags": ["rag", "vector-databases", "embeddings", "llm-integration", "knowledge-graphs"],
+  "prerequisites": ["Python experience", "Basic understanding of LLMs and APIs", "Laptop with Python 3.10+ installed"]
+}

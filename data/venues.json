@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Tucson Tech Hub",
+    "capacity": 80,
+    "address": "123 E Congress St, Tucson, AZ 85701",
+    "amenities": ["projector", "whiteboard", "wifi", "parking", "catering-kitchen"],
+    "costPerHour": 75
+  },
+  {
+    "name": "Desert Code Lab",
+    "capacity": 40,
+    "address": "456 N 4th Ave, Tucson, AZ 85705",
+    "amenities": ["projector", "wifi", "standing-desks", "monitor-hookups"],
+    "costPerHour": 50
+  },
+  {
+    "name": "UA Science & Tech Park",
+    "capacity": 150,
+    "address": "9070 S Rita Rd, Tucson, AZ 85747",
+    "amenities": ["projector", "stage", "microphone", "wifi", "parking", "av-system"],
+    "costPerHour": 120
+  },
+  {
+    "name": "Indie Hackers Lounge",
+    "capacity": 25,
+    "address": "221 E 6th St, Tucson, AZ 85705",
+    "amenities": ["wifi", "whiteboard", "coffee-bar", "outdoor-patio"],
+    "costPerHour": 30
+  },
+  {
+    "name": "Catalyst Coworking",
+    "capacity": 60,
+    "address": "340 N Commerce Park Loop, Tucson, AZ 85745",
+    "amenities": ["projector", "wifi", "breakout-rooms", "parking", "kitchen"],
+    "costPerHour": 65
+  }
+]
