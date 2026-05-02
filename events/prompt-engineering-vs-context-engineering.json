@@ -1,0 +1,10 @@
+{
+  "name": "Prompt Engineering vs Context Engineering",
+  "description": "A panel debate exploring when prompt engineering is enough and when you need full context engineering. Panelists compare techniques, trade-offs, and real-world results — from one-shot prompts to CLAUDE.md files, MCP integrations, and agent architectures.",
+  "format": "panel",
+  "targetAudience": "AI developers and practitioners who use LLMs daily and want to level up from prompt tweaking to systematic context design",
+  "estimatedAttendees": 40,
+  "suggestedDuration": "2 hours",
+  "topicTags": ["prompt-engineering", "context-engineering", "claude-code", "ai-agents", "mcp", "tool-use"],
+  "prerequisites": ["basic experience using an LLM (ChatGPT, Claude, etc.)", "familiarity with prompt writing"]
+}

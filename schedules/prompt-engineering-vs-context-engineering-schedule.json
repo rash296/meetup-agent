@@ -1,0 +1,46 @@
+{
+  "eventName": "Prompt Engineering vs Context Engineering",
+  "totalDuration": "2 hours",
+  "slots": [
+    {
+      "startTime": "0:00",
+      "endTime": "0:15",
+      "type": "setup",
+      "title": "Registration & Welcome",
+      "speaker": null,
+      "duration": "15 min"
+    },
+    {
+      "startTime": "0:15",
+      "endTime": "0:55",
+      "type": "panel",
+      "title": "Prompt Engineering vs Context Engineering: The Debate",
+      "speaker": "Maria Chen, Jordan Reeves, Sam Takahashi",
+      "duration": "40 min"
+    },
+    {
+      "startTime": "0:55",
+      "endTime": "1:10",
+      "type": "break",
+      "title": "Coffee & Conversation",
+      "speaker": null,
+      "duration": "15 min"
+    },
+    {
+      "startTime": "1:10",
+      "endTime": "1:45",
+      "type": "panel",
+      "title": "Audience Q&A: When to Use Which?",
+      "speaker": "Maria Chen, Jordan Reeves, Sam Takahashi",
+      "duration": "35 min"
+    },
+    {
+      "startTime": "1:45",
+      "endTime": "2:00",
+      "type": "networking",
+      "title": "Open Networking & Wrap-Up",
+      "speaker": null,
+      "duration": "15 min"
+    }
+  ]
+}
