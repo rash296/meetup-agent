@@ -1,0 +1,46 @@
+{
+  "eventName": "Introduction to AI Agents: From Chatbots to Autonomous Workflows",
+  "totalDuration": "2 hours",
+  "slots": [
+    {
+      "startTime": "0:00",
+      "endTime": "0:15",
+      "type": "setup",
+      "title": "Registration & Welcome",
+      "speaker": null,
+      "duration": "15 min"
+    },
+    {
+      "startTime": "0:15",
+      "endTime": "0:45",
+      "type": "talk",
+      "title": "What Are AI Agents? From Chatbots to Autonomous Workflows",
+      "speaker": "Sam Takahashi",
+      "duration": "30 min"
+    },
+    {
+      "startTime": "0:45",
+      "endTime": "1:15",
+      "type": "talk",
+      "title": "Building with MCP: Tool Integration for Agents",
+      "speaker": "Jordan Reeves",
+      "duration": "30 min"
+    },
+    {
+      "startTime": "1:15",
+      "endTime": "1:30",
+      "type": "break",
+      "title": "Coffee & Conversation",
+      "speaker": null,
+      "duration": "15 min"
+    },
+    {
+      "startTime": "1:30",
+      "endTime": "2:00",
+      "type": "talk",
+      "title": "Designing Intuitive Agent Interactions",
+      "speaker": "Alex Kim",
+      "duration": "30 min"
+    }
+  ]
+}
