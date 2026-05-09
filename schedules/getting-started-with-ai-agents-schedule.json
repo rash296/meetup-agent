@@ -1,0 +1,78 @@
+{
+  "eventName": "Getting Started with AI Agents",
+  "totalDuration": "2 hours 45 minutes",
+  "slots": [
+    {
+      "startTime": "0:00",
+      "endTime": "0:15",
+      "type": "setup",
+      "title": "Setup & Laptop Check",
+      "speaker": null,
+      "duration": "15 min"
+    },
+    {
+      "startTime": "0:15",
+      "endTime": "0:25",
+      "type": "networking",
+      "title": "Icebreaker: What Agent Would You Build?",
+      "speaker": null,
+      "duration": "10 min"
+    },
+    {
+      "startTime": "0:25",
+      "endTime": "0:55",
+      "type": "workshop",
+      "title": "What Are AI Agents? Architecture & Patterns",
+      "speaker": "Sam Takahashi",
+      "duration": "30 min"
+    },
+    {
+      "startTime": "0:55",
+      "endTime": "1:10",
+      "type": "break",
+      "title": "Break",
+      "speaker": null,
+      "duration": "15 min"
+    },
+    {
+      "startTime": "1:10",
+      "endTime": "1:50",
+      "type": "workshop",
+      "title": "Building with Claude Code: Tool Use, MCP & Agent Workflows",
+      "speaker": "Jordan Reeves",
+      "duration": "40 min"
+    },
+    {
+      "startTime": "1:50",
+      "endTime": "2:00",
+      "type": "break",
+      "title": "Break",
+      "speaker": null,
+      "duration": "10 min"
+    },
+    {
+      "startTime": "2:00",
+      "endTime": "2:15",
+      "type": "talk",
+      "title": "From Prototype to Production: What's Next for Your Agent",
+      "speaker": "Elena Vasquez",
+      "duration": "15 min"
+    },
+    {
+      "startTime": "2:15",
+      "endTime": "2:30",
+      "type": "networking",
+      "title": "Show & Tell + Open Networking",
+      "speaker": null,
+      "duration": "15 min"
+    },
+    {
+      "startTime": "2:30",
+      "endTime": "2:45",
+      "type": "setup",
+      "title": "Teardown & Wrap-up",
+      "speaker": null,
+      "duration": "15 min"
+    }
+  ]
+}

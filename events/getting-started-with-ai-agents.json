@@ -1,0 +1,10 @@
+{
+  "name": "Getting Started with AI Agents",
+  "description": "A hands-on workshop introducing developers to building AI agents that reason, use tools, and complete multi-step tasks. Participants will build a simple agent from scratch using Claude and learn core patterns like tool use, memory, and orchestration.",
+  "format": "workshop",
+  "targetAudience": "Developers with basic Python experience who are new to AI agents and want to build their first one",
+  "estimatedAttendees": 40,
+  "suggestedDuration": "2.5 hours",
+  "topicTags": ["ai-agents", "tool-use", "claude-code", "autonomous-systems", "developer-tools"],
+  "prerequisites": ["Basic Python proficiency", "Laptop with Python 3.10+ installed", "Free Anthropic API key (instructions sent before event)"]
+}
